@@ -68,14 +68,3 @@ Johns Hopkins Genomic Data Science · Biopython · Tableau Sprint (Le Wagon)
   <a href="https://linkedin.com/in/salvatore-barbagallo"><img src="https://img.shields.io/badge/LinkedIn-Salvatore%20Barbagallo-blue?logo=linkedin" /></a>
   <a href="mailto:barbagallo1@hotmail.it"><img src="https://img.shields.io/badge/Email-barbagallo1@hotmail.it-gray?logo=gmail" /></a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barbavegeta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barbavegeta&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-
-> *"Bridging the laboratory bench with the command line - one dataset at a time."*
