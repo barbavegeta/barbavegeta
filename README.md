@@ -51,10 +51,13 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 **BSc Biomedical Science** - *University of Catania* - 2014–2017 
 
 **Certifications**  
-**Google:** Data Analytics · Advanced Data Analytics · Business Intelligence · Project Management · IT Automation with Python · Architecting with Google Kubernetes Engine  
+**Google:** Data Analytics · Advanced Data Analytics · IT Automation with Python · Project Management · Business  Intelligence; **Cloud:** Architecting with Google Kubernetes Engine  
 **AWS:** Cloud Practitioner Essentials · Cloud Solutions Architect  
-**Bioinformatics:** Johns Hopkins Genomic Data Science · Biopython · Wellcome Bioinformatics for Biologists  
-**Data Science:** freeCodeCamp Python & Databases · Le Wagon Tableau Sprint
+**Bioinformatics:** 
+**Johns Hopkins University** Genomic Data Science Specialization
+**Wellcome: **Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R; Analysing and Interpreting Genomics Datasets 
+**Data Science:** **freeCodeCamp** Data Analysis with Python; Relational Databases; Scientific Computing with Python & Databases; **DE<code>LIFE:** Genomes, Networks & Pathways; Data Science & Machine Learning with Python
+
 
 ---
 
