@@ -55,8 +55,8 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 **AWS:** Cloud Practitioner Essentials · Cloud Solutions Architect  
 **Bioinformatics:** 
 **Johns Hopkins University** Genomic Data Science Specialization
-**Wellcome: **Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R; Analysing and Interpreting Genomics Datasets 
-**Data Science:** **freeCodeCamp** Data Analysis with Python; Relational Databases; Scientific Computing with Python & Databases; **DE<code>LIFE:** Genomes, Networks & Pathways; Data Science & Machine Learning with Python
+**Wellcome:** Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R; Analysing and Interpreting Genomics Datasets 
+**Data Science:** **freeCodeCamp:** Data Analysis with Python; Relational Databases; Scientific Computing with Python & Databases; **DE&lt;code&gt;LIFE:** Genomes, Networks & Pathways; Data Science & Machine Learning with Python
 
 ---
 
