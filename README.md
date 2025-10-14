@@ -15,7 +15,7 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 - Experience in **flow cytometry**, **NGS library prep**, and **clinical data reporting**  
 - Skilled in **Python**, **R**, **SQL**, and **Bash** for genomic analysis and automation  
 - Cloud-native mindset: Google Cloud, AWS, and Kubernetes for scalable bioinformatics pipelines  
-- Freelance AI data annotator (Mercor, Outlier, Alignerr) supporting model training for biomedical data  
+- Freelance AI data annotator (Mercor, Outlier, micro1, Alignerr) supporting model training for biomedical data  
 - Currently pursuing MSc **Bioinformatics @ Atlantic Technological University** (remote)  
 
 ---
@@ -35,9 +35,11 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 | Project | Description | Tools |
 |:--|:--|:--|
 | [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | End-to-end RNA-seq & variant analysis using HISAT2, StringTie, and DESeq2 | Bash · Python · R |
+| [Salifort Motors](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-Salifort_Motors) |
+| [Tik Tok  Project](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-Tik_Tok_Project) |
 | [Bellabeat Case Study](https://github.com/barbavegeta/Google_Data_Analytics-Bellabeat-Project) | Fitbit data analysis and Tableau dashboard | R · dplyr · Tableau |
-| [Cyclistic BI Capstone](https://github.com/barbavegeta/Google_Business_Intelligence---Google-Fiber) | Data integration and visualization for business insights | BigQuery · Tableau |
 | [AWS Solution Architecture](https://github.com/barbavegeta/AWS-Solution-Architect) | Cloud deployment diagrams & IaC design | AWS · ECS · S3 · Aurora |
+| [Cyclistic BI Capstone](https://github.com/barbavegeta/Google_Business_Intelligence---Google-Fiber) | Data integration and visualization for business insights | BigQuery · Tableau |
 | [Portfolio Website](https://barbavegeta.github.io) | Personal website showcasing bioinformatics and data projects | HTML · CSS · JS |
 
 ---
@@ -58,7 +60,8 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 
 ### Currently Exploring
 
-- Protein–protein interaction (PPI) networks with Cytoscape  
+- Ecological and Conservational Data Science
+- Protein–protein interaction (PPI) networks with Cytoscape
 - Graph theory & network analysis in genomics  
 - Cloud-native workflows with Docker & Snakemake  
 - Data visualisation storytelling (Tableau + HTML integration)
