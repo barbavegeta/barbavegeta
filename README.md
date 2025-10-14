@@ -9,7 +9,7 @@
 ### About Me
 
 I’m a **biomedical scientist** with 7+ years of experience in **clinical laboratories** and a growing focus on **bioinformatics, data analytics, and precision medicine**.  
-I bridge wet-lab techniques with computational workflows — from stem cell research to NGS data pipelines — combining biological expertise with data-driven insights.
+I bridge wet-lab techniques with computational workflows - from stem cell research to NGS data pipelines - combining biological expertise with data-driven insights.
 
 - 7+ years of experience across clinical, stem-cell, and ATMP laboratories (UCLH, CooperGenomics)  
 - Experience in **flow cytometry**, **NGS library prep**, and **clinical data reporting**  
@@ -44,9 +44,9 @@ I bridge wet-lab techniques with computational workflows — from stem cell rese
 
 ### Education & Certifications
 
-**MSc Bioinformatics** — *Atlantic Technological University (Remote)* — 2025–Present  
-**MSc Cell & Gene Therapy** — *University College London* — 2021–2023  
-**BSc Biomedical Science** — *University of Catania* — 2014–2017 
+**MSc Bioinformatics** - *Atlantic Technological University (Remote)* - 2025–Present  
+**MSc Cell & Gene Therapy** - *University College London* - 2021–2023  
+**BSc Biomedical Science** - *University of Catania* - 2014–2017 
 
 **Certifications**  
 **Google:** Data Analytics · Advanced Data Analytics · Business Intelligence · Project Management · IT Automation with Python · Architecting with Google Kubernetes Engine  
