@@ -1,9 +1,3 @@
-<!-- Profile README for Salvatore Barbagallo -->
-<!-- Last updated: 2025-10 -->
-<div align="center">
-  <img src="https://barbavegeta.github.io/assets/banner.png" alt="banner" width="100%" />
-</div>
-
 <h1 align="center">Hi, I’m Salvatore</h1>
 <p align="center">
   <strong>Biomedical Scientist ➜ Bioinformatics & Data Analytics Practitioner</strong><br>
