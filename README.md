@@ -35,8 +35,8 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 | Project | Description | Tools |
 |:--|:--|:--|
 | [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | End-to-end RNA-seq & variant analysis using HISAT2, StringTie, and DESeq2 | Bash · Python · R |
-| [Salifort Motors](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-Salifort_Motors) |
-| [Tik Tok  Project](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-Tik_Tok_Project) |
+| [Salifort Motors](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-Salifort_Motors) | Predictive modelling to understand drivers of employee turnover and inform retention strategy | XGBoost · NumPy · SciPy · scikit-learn · Pandas · Statsmodels |
+| [Tik Tok  Project](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-Tik_Tok_Project) | Exploratory analysis of engagement metrics to uncover content trends and optimisation levers | Matplotlib · Seaborn · Plotly · SciPy |
 | [Bellabeat Case Study](https://github.com/barbavegeta/Google_Data_Analytics-Bellabeat-Project) | Fitbit data analysis and Tableau dashboard | R · dplyr · Tableau |
 | [AWS Solution Architecture](https://github.com/barbavegeta/AWS-Solution-Architect) | Cloud deployment diagrams & IaC design | AWS · ECS · S3 · Aurora |
 | [Cyclistic BI Capstone](https://github.com/barbavegeta/Google_Business_Intelligence---Google-Fiber) | Data integration and visualization for business insights | BigQuery · Tableau |
