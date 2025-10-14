@@ -14,7 +14,7 @@
 
 ### About Me
 
-I’m a **biomedical scientist** specialising in **bioinformatics, data analytics, and precision medicine** — bridging *wet-lab techniques* with *computational workflows* to uncover insights from genomic and clinical data.
+I’m a **biomedical scientist** specialising in **bioinformatics, data analytics, and precision medicine** - bridging *wet-lab techniques* with *computational workflows* to uncover insights from genomic and clinical data.
 
 - 7+ years of experience across clinical, stem-cell, and ATMP laboratories (UCLH, CooperGenomics)  
 - Skilled in Python, R, SQL, and Bash for **NGS analysis, data visualisation, and automation**  
@@ -38,19 +38,18 @@ I’m a **biomedical scientist** specialising in **bioinformatics, data analytic
 
 | Project | Description | Tools |
 |:--|:--|:--|
-| [Genomic Data Science](https://github.com/barbavegeta/genomic-data-science) | End-to-end RNA-seq & variant analysis using HISAT2, StringTie, and DESeq2 | Bash · Python · R |
-| [Bellabeat Case Study](https://public.tableau.com/views/ExercisesBellabeat/Dashboard1) | Fitbit data analysis and Tableau dashboard | R · dplyr · Tableau |
-| [Cyclistic BI Capstone](https://public.tableau.com/views/GoogleFiber-GoogleBusinessIntelligenceCertificate/Dashboard1) | Data integration and visualization for business insights | BigQuery · Tableau |
-| [AWS Solution Architecture](https://github.com/barbavegeta/aws-solutions) | Cloud deployment diagrams & IaC design | AWS · ECS · S3 · Aurora |
-| [AI Annotation Portfolio](https://github.com/barbavegeta/ai-annotation) | Biomedical + technical data labeling projects | Python · JSONL · QA Review |
+| [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | End-to-end RNA-seq & variant analysis using HISAT2, StringTie, and DESeq2 | Bash · Python · R |
+| [Bellabeat Case Study](https://github.com/barbavegeta/Google_Data_Analytics-Bellabeat-Project) | Fitbit data analysis and Tableau dashboard | R · dplyr · Tableau |
+| [Cyclistic BI Capstone](https://github.com/barbavegeta/Google_Business_Intelligence---Google-Fiber) | Data integration and visualization for business insights | BigQuery · Tableau |
+| [AWS Solution Architecture](https://github.com/barbavegeta/AWS-Solution-Architect) | Cloud deployment diagrams & IaC design | AWS · ECS · S3 · Aurora |
 
 ---
 
 ### Education & Certifications
 
-**MSc Bioinformatics** — *Atlantic Technological University* (2025–)  
-**MSc Cell & Gene Therapy** — *University College London*  
-**BSc Biomedical Science** — *University of Catania*
+**MSc Bioinformatics** - *Atlantic Technological University* (2025–)  
+**MSc Cell & Gene Therapy** - *University College London*  
+**BSc Biomedical Science** - *University of Catania*
 
 **Certifications**  
 Google Data Analytics · Advanced Data Analytics · Business Intelligence ·  
@@ -85,4 +84,4 @@ Johns Hopkins Genomic Data Science · Biopython · Tableau Sprint (Le Wagon)
 
 ---
 
-> *"Bridging the laboratory bench with the command line — one dataset at a time."*
+> *"Bridging the laboratory bench with the command line - one dataset at a time."*
