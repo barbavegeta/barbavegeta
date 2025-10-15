@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Salvatore</h1>
 <p align="center">
-  <em>Biomedical Scientist → Bioinformatics & Data Analytics Practitioner</em><br>
+  <em>Data Science & Bioinformatics</em><br>
   London, United Kingdom · <a href="mailto:barbagallo1@hotmail.it">barbagallo1@hotmail.it</a>  
 </p>
 
@@ -8,7 +8,7 @@
 
 ### About Me
 
-I’m a **biomedical scientist** with 7+ years of experience in **clinical laboratories** and a growing focus on **bioinformatics, data analytics, and precision medicine**.  
+I’m a **biomedical scientist** with 7+ years of experience in **clinical laboratories** and a growing focus on **bioinformatics, data science, and precision medicine**.  
 I bridge wet-lab techniques with computational workflows - from stem cell research to NGS data pipelines - combining biological expertise with data-driven insights.
 
 - 7+ years of experience across clinical, stem-cell, and ATMP laboratories (UCLH, CooperGenomics)  
