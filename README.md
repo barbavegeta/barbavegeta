@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Salvatore</h1>
 <p align="center">
   <em>Data Science & Bioinformatics</em><br>
-  London, United Kingdom · <a href="mailto:barbagallo1@hotmail.it">barbagallo1@hotmail.it</a>  
+  London, United Kingdom 
 </p>
 
 ---
