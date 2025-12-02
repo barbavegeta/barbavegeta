@@ -46,25 +46,28 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 
 ### Education & Certifications
 
-**MSc Bioinformatics** - *Atlantic Technological University (Remote)* - 2025–Present  
-**MSc Cell & Gene Therapy** - *University College London* - 2021–2023  
-**BSc Biomedical Science** - *University of Catania* - 2014–2017 
+**MSc Bioinformatics** - *Atlantic Technological University (Remote)* - 2025-Present  
+**MSc Cell & Gene Therapy** - *University College London* - 2021-2023  
+**BSc Biomedical Science** - *University of Catania* - 2014-2017 
 
-**Certifications**  
+**Data, Analytics, and Cloud Certifications**  
 **Google:** Data Analytics · Advanced Data Analytics · IT Automation with Python · Project Management · Business  Intelligence  
 **Google Cloud:** Architecting with Google Kubernetes Engine  
-**Amazon Web Services (AWS):** Cloud Practitioner Essentials · Cloud Solutions Architect  
-**Bioinformatics:** 
-**Johns Hopkins University** Genomic Data Science Specialization
-**Wellcome:** Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R; Analysing and Interpreting Genomics Datasets 
-**Data Science:** **freeCodeCamp:** Data Analysis with Python; Relational Databases; Scientific Computing with Python & Databases; **DE&lt;code&gt;LIFE:** Genomes, Networks & Pathways; Data Science & Machine Learning with Python
+**Amazon Web Services (AWS):** Cloud Practitioner Essentials · Cloud Solutions Architect
+  
+**Bioinformatics Certifications:**  
+**Johns Hopkins University** Genomic Data Science Specialization  
+**Wellcome:** Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R; Analysing and Interpreting Genomics Datasets
+
+**Programming & Data Science Courses:**  
+**freeCodeCamp:** Data Analysis with Python; Relational Databases; Scientific Computing with Python & Databases; **DE\<code\>LIFE:** Genomes, Networks & Pathways; Data Science & Machine Learning with Python
 
 ---
 
 ### Currently Exploring
 
 - Ecological and Conservational Data Science
-- Protein–protein interaction (PPI) networks with Cytoscape
+- Protein-protein interaction (PPI) networks with Cytoscape
 - Graph theory & network analysis in genomics  
 - Cloud-native workflows with Docker & Snakemake  
 - Data visualisation storytelling (Tableau + HTML integration)
