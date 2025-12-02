@@ -52,6 +52,7 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 
 **Certifications**  
 **Google:** Data Analytics · Advanced Data Analytics · IT Automation with Python · Project Management · Business  Intelligence; 
+
 **Google Cloud:** Architecting with Google Kubernetes Engine  
 **Amazon Web Services (AWS):** Cloud Practitioner Essentials · Cloud Solutions Architect  
 **Bioinformatics:** 
