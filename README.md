@@ -11,7 +11,7 @@
 I’m a **biomedical scientist** with 7+ years of experience in **clinical laboratories** and a growing focus on **bioinformatics, data science, and precision medicine**.  
 I bridge wet-lab techniques with computational workflows - from stem cell research to NGS data pipelines - combining biological expertise with data-driven insights.
 
-- 7+ years of experience across clinical, stem-cell, and ATMP laboratories (UCLH, CooperGenomics)  
+- 7+ years of experience across genomic, clinical, stem-cell, and ATMP laboratories (CooperGenomics, UCLH)  
 - Experience in **flow cytometry**, **NGS library prep**, and **clinical data reporting**  
 - Skilled in **Python**, **R**, **SQL**, and **Bash** for genomic analysis and automation  
 - Cloud-native mindset: Google Cloud, AWS, and Kubernetes for scalable bioinformatics pipelines  
