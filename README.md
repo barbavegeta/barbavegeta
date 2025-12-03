@@ -23,7 +23,7 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 ### Tech Stack
 
 **Programming:** Python · R · SQL · Bash · Git  
-**Bioinformatics:** Bowtie2 · HISAT2 · SAMtools · BEDtools · DESeq2 · Bioconductor  
+**Bioinformatics:** Bowtie2 · HISAT2 · SAMtools · BEDtools · DESeq2 · Bioconductor · Biopython
 **Data Viz:** Tableau · ggplot2 · seaborn · matplotlib  
 **Cloud:** AWS · Google Cloud · GKE (Kubernetes)  
 **AI/ML:** Supervised data annotation, evaluation of LLM outputs, prompt and instruction design for technical content  
@@ -34,7 +34,7 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 
 | Project | Description | Tools |
 |:--|:--|:--|
-| [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | Practical genomics notebooks and scripts from Johns Hopkins’ Genomic Data Science Specialization, including a small end-to-end RNA-seq workflow (QC → alignment → quantification → differential expression) | Python · R · Bash · Bioconductor |
+| [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | | [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | End-to-end RNA-seq & variant analysis using HISAT2, StringTie, and DESeq2 (QC → alignment → quantification → differential expression) | Python · R · Bash · Bioconductor |
 | [Salifort Motors](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-Salifort_Motors) | Predictive modelling to understand drivers of employee turnover and inform retention strategy | XGBoost · NumPy · SciPy · scikit-learn · Pandas · Statsmodels |
 | [TikTok Project](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-TikTok_Project) | Exploratory analysis of engagement metrics to uncover content trends and optimisation levers | Matplotlib · Seaborn · Plotly · SciPy |
 | [Bellabeat Case Study](https://github.com/barbavegeta/Google_Data_Analytics-Bellabeat-Project) | Fitbit data analysis and Tableau dashboard | R · dplyr · Tableau |
@@ -62,16 +62,6 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 **Programming & Data Science Courses:**  
 **freeCodeCamp:** Data Analysis with Python; Relational Databases; Scientific Computing with Python & Databases  
 **DE\<code\>LIFE:** Genomes, Networks & Pathways; Data Science & Machine Learning with Python
-
----
-
-### Currently Exploring
-
-- Ecological and Conservational Data Science
-- Protein-protein interaction (PPI) networks with Cytoscape
-- Graph theory & network analysis in genomics  
-- Cloud-native workflows with Docker & Snakemake  
-- Data visualisation storytelling (Tableau + HTML integration)
 
 ---
 
