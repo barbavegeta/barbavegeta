@@ -34,7 +34,7 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 
 | Project | Description | Tools |
 |:--|:--|:--|
-| [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | | [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | End-to-end RNA-seq & variant analysis using HISAT2, StringTie, and DESeq2 (QC → alignment → quantification → differential expression) | Python · R · Bash · Bioconductor |
+| [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | End-to-end RNA-seq & variant analysis using HISAT2, StringTie, and DESeq2 | Python · R · Bash · Bioconductor |
 | [Salifort Motors](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-Salifort_Motors) | Predictive modelling to understand drivers of employee turnover and inform retention strategy | XGBoost · NumPy · SciPy · scikit-learn · Pandas · Statsmodels |
 | [TikTok Project](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-TikTok_Project) | Exploratory analysis of engagement metrics to uncover content trends and optimisation levers | Matplotlib · Seaborn · Plotly · SciPy |
 | [Bellabeat Case Study](https://github.com/barbavegeta/Google_Data_Analytics-Bellabeat-Project) | Fitbit data analysis and Tableau dashboard | R · dplyr · Tableau |
