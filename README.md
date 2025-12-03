@@ -23,7 +23,7 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 ### Tech Stack
 
 **Programming:** Python · R · SQL · Bash · Git  
-**Bioinformatics:** Bowtie2 · HISAT2 · SAMtools · BEDtools · DESeq2 · Bioconductor · Biopython
+**Bioinformatics:** Bowtie2 · HISAT2 · SAMtools · BEDtools · DESeq2 · Bioconductor · Biopython  
 **Data Viz:** Tableau · ggplot2 · seaborn · matplotlib  
 **Cloud:** AWS · Google Cloud · GKE (Kubernetes)  
 **AI/ML:** Supervised data annotation, evaluation of LLM outputs, prompt and instruction design for technical content  
