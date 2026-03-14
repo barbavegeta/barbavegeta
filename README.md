@@ -34,6 +34,8 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 
 | Project | Description | Tools |
 |:--|:--|:--|
+| [M. tuberculosis WGS Variant Analysis Workflow](https://github.com/barbavegeta/mtb-wgs-galaxy-workflow) | Galaxy-based workflow for QC, trimming, alignment, coverage assessment, variant calling, annotation, and IGV-supported review of resistance-associated loci in *Mycobacterium tuberculosis* | Galaxy · BWA-MEM2 · Picard · SAMtools · mosdepth · bcftools · SnpEff · SnpSift · MultiQC · IGV |
+| [RNA-seq Pipeline](https://github.com/barbavegeta/RNA-seq_Nextflow_Pipeline_with_Docker) | Containerised RNA-seq workflow built with Nextflow and Docker, covering QC, trimming, alignment, quantification, MultiQC reporting, and differential expression analysis | Nextflow · Docker · FastQC · Cutadapt · STAR · featureCounts · MultiQC · DESeq2 |
 | [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | End-to-end RNA-seq & variant analysis using HISAT2, StringTie, and DESeq2 | Python · R · Bash · Bioconductor |
 | [Salifort Motors](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-Salifort_Motors) | Predictive modelling to understand drivers of employee turnover and inform retention strategy | XGBoost · NumPy · SciPy · scikit-learn · Pandas · Statsmodels |
 | [TikTok Project](https://github.com/barbavegeta/Google_Advanced_Data_Analytics-TikTok_Project) | Exploratory analysis of engagement metrics to uncover content trends and optimisation levers | Matplotlib · Seaborn · Plotly · SciPy |
