@@ -53,6 +53,7 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 **BSc Biomedical Science** - *University of Catania* - 2014-2017 
 
 **Machine Learning & AI Certifications:**
+
 **IBM:** Machine Learning · AI Engineering
 
 **Data, Analytics, and Cloud Certifications:**  
