@@ -52,6 +52,9 @@ I bridge wet-lab techniques with computational workflows - from stem cell resear
 **MSc Cell & Gene Therapy** - *University College London* - 2021-2023  
 **BSc Biomedical Science** - *University of Catania* - 2014-2017 
 
+**Machine Learning & AI**
+**IBM:** Machine Learning · AI Engineering
+
 **Data, Analytics, and Cloud Certifications:**  
 **Google:** Data Analytics · Advanced Data Analytics · IT Automation with Python · Project Management · Business  Intelligence  
 **Google Cloud:** Architecting with Google Kubernetes Engine  
