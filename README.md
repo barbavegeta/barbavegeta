@@ -8,25 +8,22 @@
 
 ### About Me
 
-I’m a **biomedical scientist** with 7+ years of experience in **clinical laboratories** and a growing focus on **bioinformatics, data science, and precision medicine**.  
-I bridge wet-lab techniques with computational workflows - from stem cell research to NGS data pipelines - combining biological expertise with data-driven insights.
+Biomedical scientist with 7+ years in clinical and genomic laboratories, now focused on bioinformatics and data-driven analysis of sequencing data.
 
-- 7+ years of experience across genomic, clinical, stem-cell, and ATMP laboratories (CooperGenomics, UCLH)  
-- Experience in **flow cytometry**, **NGS library prep**, and **clinical data reporting**  
-- Skilled in **Python**, **R**, **SQL**, and **Bash** for genomic analysis and automation  
-- Cloud-native mindset: Google Cloud, AWS, and Kubernetes for scalable bioinformatics pipelines  
-- Freelance AI data annotator (Mercor, Outlier, micro1, Alignerr) supporting model training for biomedical data  
-- Currently pursuing MSc **Bioinformatics @ Atlantic Technological University** (remote)  
+I specialise in building and analysing NGS pipelines, combining wet-lab expertise with computational workflows to extract biologically meaningful insights.
+
+- Clinical experience: UCLH, CooperGenomics (NGS, ATMPs, reporting)
+- Strong in Python, R, SQL, and Bash for genomic data workflows
+- Experience with RNA-seq, variant calling, and pipeline development
 
 ---
 
 ### Tech Stack
 
-**Programming:** Python · R · SQL · Bash · Git  
-**Bioinformatics:** Bowtie2 · HISAT2 · SAMtools · BEDtools · DESeq2 · Bioconductor · Biopython  
+**Languages:** Python · R · SQL · Bash  
+**Bioinformatics:** HISAT2 · STAR · SAMtools · BEDtools · bcftools · DESeq2   
 **Data Viz:** Tableau · ggplot2 · seaborn · matplotlib  
 **Cloud:** AWS · Google Cloud · GKE (Kubernetes)  
-**AI/ML:** Supervised data annotation, evaluation of LLM outputs, prompt and instruction design for technical content  
 
 ---
 
