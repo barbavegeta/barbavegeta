@@ -46,7 +46,7 @@ I specialise in building and analysing NGS pipelines, combining wet-lab expertis
 
 ### Education & Certifications
 
-**MSc Bioinformatics** - *Atlantic Technological University (Remote)* - 2025-Present  
+**MSc Bioinformatics** - *Atlantic Technological University* - 2025-2026  
 **MSc Cell & Gene Therapy** - *University College London* - 2021-2023  
 **BSc Biomedical Science** - *University of Catania* - 2014-2017 
 
