@@ -31,6 +31,7 @@ I specialise in building and analysing NGS pipelines, combining wet-lab expertis
 
 | Project | Description | Tools |
 |:--|:--|:--|
+| [GPNMB Parkinson's Disease MR & Colocalisation](https://github.com/barbavegeta/GPNMB-Parkinson-MR-Colocalisation/tree/main) | MSc Bioinformatics dissertation project investigating GPNMB in Parkinson's disease using Mendelian randomisation, LD-aware sensitivity analysis, Bayesian colocalisation, SuSiE, and transcriptomic support | R · Mendelian Randomisation · coloc · SuSiE · OpenGWAS · pQTL · eQTL · GWAS |
 | [M. tuberculosis WGS Variant Analysis Workflow](https://github.com/barbavegeta/mtb-wgs-galaxy-workflow) | Galaxy-based workflow for QC, trimming, alignment, coverage assessment, variant calling, annotation, and IGV-supported review of resistance-associated loci in *Mycobacterium tuberculosis* | Galaxy · BWA-MEM2 · Picard · SAMtools · mosdepth · bcftools · SnpEff · SnpSift · MultiQC · IGV |
 | [RNA-seq Pipeline](https://github.com/barbavegeta/RNA-seq_Nextflow_Pipeline_with_Docker) | Containerised RNA-seq workflow built with Nextflow and Docker, covering QC, trimming, alignment, quantification, MultiQC reporting, and differential expression analysis | Nextflow · Docker · FastQC · Cutadapt · STAR · featureCounts · MultiQC · DESeq2 |
 | [Genomic Data Science](https://github.com/barbavegeta/Genomic_Data_Science_Specialization) | End-to-end RNA-seq & variant analysis using HISAT2, StringTie, and DESeq2 | Python · R · Bash · Bioconductor |
