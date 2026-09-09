@@ -60,7 +60,7 @@ I specialise in building and analysing NGS pipelines, combining wet-lab expertis
   
 **Bioinformatics Certifications:**  
 **Johns Hopkins University:** Genomic Data Science Specialization  
-**Wellcome:** Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R; Analysing and Interpreting Genomics Datasets
+**Wellcome:** Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R; Analysing and Interpreting Genomics Datasets  
 **Ulster University:** Coding Skills for Biologists
 
 **Programming & Data Science Courses:**  
