@@ -14,14 +14,18 @@ I specialise in building and analysing NGS pipelines, combining wet-lab expertis
 
 - Clinical experience: UCLH, CooperGenomics (NGS, ATMPs, reporting)
 - Strong in Python, R, SQL, and Bash for genomic data workflows
-- Experience with RNA-seq, variant calling, and pipeline development
+- Experience with RNA-seq, single-nucleus RNA-seq, variant calling, and pipeline development
+- Statistical genetics and biostatistics: Mendelian randomisation, colocalisation, mixed-effects and survival models
 
 ---
 
 ### Tech Stack
 
 **Languages:** Python · R · SQL · Bash  
-**Bioinformatics:** HISAT2 · STAR · SAMtools · BEDtools · bcftools · DESeq2   
+**Bioinformatics:** HISAT2 · STAR · SAMtools · BEDtools · bcftools · DESeq2 · Nextflow · snRNA-seq  
+**Statistical Genetics:** Mendelian Randomisation · coloc · SuSiE · pQTL/eQTL · GWAS  
+**Biostatistics:** Mixed-effects models · Cox / survival analysis · Bootstrap validation  
+**Health Data & AI:** OMOP CDM · FHIR · dbt · PostgreSQL · pgvector · RAG  
 **Data Viz:** Tableau · ggplot2 · seaborn · matplotlib  
 **Cloud:** AWS · Google Cloud · GKE (Kubernetes)  
 
@@ -31,6 +35,12 @@ I specialise in building and analysing NGS pipelines, combining wet-lab expertis
 
 | Project | Description | Tools |
 |:--|:--|:--|
+| [Proteome-wide cis-MR Scan for Parkinson's Disease](https://github.com/barbavegeta/pd-proteome-mr-scan) | Nextflow pipeline testing ~2,900 UKB-PPP plasma proteins as causal candidates for PD with cis-MR and colocalisation, FDR-ranked into evidence tiers; statistics validated against R to 8 significant figures | Nextflow · Python · NumPy · SciPy · Mendelian Randomisation · coloc · pQTL · GWAS |
+| [GPNMB in PD: Single-nucleus RNA-seq](https://github.com/barbavegeta/pd_gpnmb_snrnaseq) | Donor-aware re-analysis of 83,484 substantia nigra nuclei (29 donors): GPNMB cell-type expression, microglial re-clustering, pseudobulk DE, composition testing and external validation | Python · AnnData · Pseudobulk DE · DESeq2 · propeller · snRNA-seq |
+| [PPMI Parkinson's Progression Modelling](https://github.com/barbavegeta/ppmi-progression) | Piecewise mixed-effects and Cox models of MDS-UPDRS, MoCA and Hoehn & Yahr milestones in 1,789 PPMI participants, with assumption checks, tests and CI | Python · Mixed-effects models · Cox regression · Survival analysis · pytest |
+| [GPNMB & Glioma Survival](https://github.com/barbavegeta/gpnmb-glioma-survival) | Pre-specified, confounding-aware Cox analysis of TCGA diffuse glioma showing GPNMB's prognostic signal is largely explained by grade and IDH/1p19q status | Python · Cox regression · Bootstrap validation · TCGA · UCSC Xena |
+| [Synthea → OMOP + Clinical-Notes RAG](https://github.com/barbavegeta/synthea-omop-rag) | Synthetic FHIR to OMOP CDM v5.4 with dbt and OHDSI vocabularies, then BM25/dense/hybrid RAG over clinical notes with cited LLM answers, evaluated once on 1,200 held-out questions against a SQL baseline | PostgreSQL · dbt · OMOP CDM · FHIR · pgvector · RAG · Claude API |
+| [RegulonML: Regulatory Variant-Effect Modelling](https://github.com/barbavegeta/RegulonML-Promoter-Sequence-Expression-Modelling) | Predicting MPRA variant effects in unseen promoters/enhancers from sequence and JASPAR TF-motif features, with leave-one-locus-out validation and a documented fix for target leakage | Python · scikit-learn · Gradient boosting · Ridge · JASPAR · MPRA |
 | [GPNMB Parkinson's Disease MR & Colocalisation](https://github.com/barbavegeta/GPNMB-Parkinson-MR-Colocalisation/tree/main) | MSc Bioinformatics dissertation project investigating GPNMB in Parkinson's disease using Mendelian randomisation, LD-aware sensitivity analysis, Bayesian colocalisation, SuSiE, and transcriptomic support | R · Mendelian Randomisation · coloc · SuSiE · OpenGWAS · pQTL · eQTL · GWAS |
 | [M. tuberculosis WGS Variant Analysis Workflow](https://github.com/barbavegeta/mtb-wgs-galaxy-workflow) | Galaxy-based workflow for QC, trimming, alignment, coverage assessment, variant calling, annotation, and IGV-supported review of resistance-associated loci in *Mycobacterium tuberculosis* | Galaxy · BWA-MEM2 · Picard · SAMtools · mosdepth · bcftools · SnpEff · SnpSift · MultiQC · IGV |
 | [RNA-seq Pipeline](https://github.com/barbavegeta/RNA-seq_Nextflow_Pipeline_with_Docker) | Containerised RNA-seq workflow built with Nextflow and Docker, covering QC, trimming, alignment, quantification, MultiQC reporting, and differential expression analysis | Nextflow · Docker · FastQC · Cutadapt · STAR · featureCounts · MultiQC · DESeq2 |
