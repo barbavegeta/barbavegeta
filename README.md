@@ -14,7 +14,7 @@
 
 ### About Me
 
-Biomedical scientist with 7+ years in clinical and genomic laboratories (UCLH, CooperGenomics), now working on computational analysis of genomic and clinical data: sequencing pipelines, Mendelian randomisation, single-cell transcriptomics and longitudinal models of disease progression.
+Biomedical scientist with 7+ years in clinical and genomic laboratories (UCLH, CooperGenomics), now working on computational analysis of genomic and clinical data: sequencing pipelines, Mendelian randomisation, single-cell transcriptomics, longitudinal models of disease progression and health-economic cost-effectiveness models.
 
 ---
 
@@ -34,6 +34,7 @@ Biomedical scientist with 7+ years in clinical and genomic laboratories (UCLH, C
 
 | Project | What it does |
 |:--|:--|
+| [Pembrolizumab NSCLC cost-effectiveness](https://github.com/barbavegeta/pembrolizumab-nsclc-psm) | Reproducible R partitioned survival model of KEYNOTE-024 (NICE TA531 structure): reconstructed IPD, DSU-compliant extrapolation, PSA |
 | [Synthea → OMOP + RAG](https://github.com/barbavegeta/synthea-omop-rag) | FHIR to OMOP CDM with dbt, then cited RAG over clinical notes, evaluated against SQL |
 | [RegulonML](https://github.com/barbavegeta/RegulonML-Promoter-Sequence-Expression-Modelling) | Predicting regulatory variant effects in unseen promoters from sequence and TF motifs |
 | [M. tuberculosis WGS workflow](https://github.com/barbavegeta/mtb-wgs-galaxy-workflow) | Galaxy workflow from QC to annotated resistance variants |
@@ -58,7 +59,7 @@ Biomedical scientist with 7+ years in clinical and genomic laboratories (UCLH, C
 
 **Languages:** Python · R · SQL · Bash  
 **Bioinformatics:** Nextflow · STAR · HISAT2 · SAMtools · bcftools · DESeq2  
-**Statistics:** Mendelian randomisation · coloc · SuSiE · mixed-effects · survival analysis  
+**Statistics:** Mendelian randomisation · coloc · SuSiE · mixed-effects · survival analysis · partitioned survival / cost-effectiveness  
 **Data & Cloud:** PostgreSQL · dbt · OMOP · Docker · AWS · Google Cloud  
 **Visualisation:** ggplot2 · matplotlib · seaborn · Tableau
 
