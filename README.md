@@ -24,7 +24,7 @@ Biomedical scientist with 7+ years in clinical and genomic laboratories (UCLH, C
 
 | Project | What it does |
 |:--|:--|
-| [Proteome-wide MR scan](https://github.com/barbavegeta/pd-proteome-mr-scan) | Nextflow pipeline testing ~2,900 plasma proteins as causal candidates for PD (cis-MR + colocalisation) |
+| [Proteome-wide MR scan](https://github.com/barbavegeta/pd-proteome-mr-scan) | Nextflow cis-MR + colocalisation scan; run on 3,211 SomaScan plasma proteins, it recovers PD risk-locus genes (FCGR2A, CTSB, GPNMB) |
 | [GPNMB MR & colocalisation](https://github.com/barbavegeta/GPNMB-Parkinson-MR-Colocalisation) | MSc dissertation: MR, Bayesian colocalisation and SuSiE for GPNMB in PD |
 | [GPNMB single-nucleus RNA-seq](https://github.com/barbavegeta/pd_gpnmb_snrnaseq) | Donor-aware pseudobulk analysis of 83k substantia nigra nuclei |
 | [PPMI progression models](https://github.com/barbavegeta/ppmi-progression) | Mixed-effects and Cox models of motor and cognitive decline in 1,789 patients |
@@ -37,6 +37,7 @@ Biomedical scientist with 7+ years in clinical and genomic laboratories (UCLH, C
 | [Pembrolizumab NSCLC cost-effectiveness](https://github.com/barbavegeta/pembrolizumab-nsclc-psm) | Reproducible R partitioned survival model of KEYNOTE-024 (NICE TA531 structure): reconstructed IPD, DSU-compliant extrapolation, PSA |
 | [Synthea → OMOP + RAG](https://github.com/barbavegeta/synthea-omop-rag) | FHIR to OMOP CDM with dbt, then cited RAG over clinical notes, evaluated against SQL |
 | [RegulonML](https://github.com/barbavegeta/RegulonML-Promoter-Sequence-Expression-Modelling) | Predicting regulatory variant effects in unseen promoters from sequence and TF motifs |
+| [HG002 germline benchmark](https://github.com/barbavegeta/hg002-germline-benchmark) | Nextflow germline SNV/indel calling (GATK, DeepVariant) benchmarked against the GIAB HG002 truth set with hap.py |
 | [M. tuberculosis WGS workflow](https://github.com/barbavegeta/mtb-wgs-galaxy-workflow) | Galaxy workflow from QC to annotated resistance variants |
 | [RNA-seq Nextflow pipeline](https://github.com/barbavegeta/RNA-seq_Nextflow_Pipeline_with_Docker) | Containerised FASTQ → DESeq2 workflow |
 
@@ -58,7 +59,7 @@ Biomedical scientist with 7+ years in clinical and genomic laboratories (UCLH, C
 ### Tech Stack
 
 **Languages:** Python · R · SQL · Bash  
-**Bioinformatics:** Nextflow · STAR · HISAT2 · SAMtools · bcftools · DESeq2  
+**Bioinformatics:** Nextflow · STAR · HISAT2 · SAMtools · bcftools · DESeq2 · GATK · DeepVariant  
 **Statistics:** Mendelian randomisation · coloc · SuSiE · mixed-effects · survival analysis · partitioned survival / cost-effectiveness  
 **Data & Cloud:** PostgreSQL · dbt · OMOP · Docker · AWS · Google Cloud  
 **Visualisation:** ggplot2 · matplotlib · seaborn · Tableau
