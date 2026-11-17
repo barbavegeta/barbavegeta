@@ -24,7 +24,7 @@ Biomedical scientist with 7+ years in clinical and genomic laboratories (UCLH, C
 
 | Project | What it does |
 |:--|:--|
-| [Proteome-wide MR scan](https://github.com/barbavegeta/pd-proteome-mr-scan) | Nextflow cis-MR + colocalisation scan; run on 3,211 SomaScan plasma proteins, it recovers PD risk-locus genes (FCGR2A, CTSB, GPNMB) |
+| [Proteome-wide MR scan](https://github.com/barbavegeta/pd-proteome-mr-scan) | Nextflow cis-MR + colocalisation scan, run on 2,940 UKB-PPP Olink and 3,211 SomaScan proteins; finds PD risk loci unsupervised and separates colocalising from LD-driven hits |
 | [GPNMB MR & colocalisation](https://github.com/barbavegeta/GPNMB-Parkinson-MR-Colocalisation) | MSc dissertation: MR, Bayesian colocalisation and SuSiE for GPNMB in PD |
 | [GPNMB single-nucleus RNA-seq](https://github.com/barbavegeta/pd_gpnmb_snrnaseq) | Donor-aware pseudobulk analysis of 83k substantia nigra nuclei |
 | [PPMI progression models](https://github.com/barbavegeta/ppmi-progression) | Mixed-effects and Cox models of motor and cognitive decline in 1,789 patients |
